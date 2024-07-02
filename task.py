@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # hello.py
 
 def main():
